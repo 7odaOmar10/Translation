@@ -12,7 +12,9 @@
     <color name="greeen2">#679929</color>
     <color name="lead">#92C6BCBC</color>
     <color name="lead1">#E7F9D1</color>
-    <color name="selected_icon_color">#000000</color>
-    <color name="unselected_icon_color">#32C000</color>
+    <color name="unselected_icon_color">#000000</color>
+    <color name="selected_icon_color">#32C000</color>
+    <color name="red">#ff0000</color>
+
 
 </resources>

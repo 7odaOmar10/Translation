@@ -40,7 +40,7 @@
         android:textAllCaps="false"
         android:background="@drawable/rounded_button_background"
         android:backgroundTint="@color/greeen"
-        android:textSize="23sp"
+        android:textSize="20sp"
         android:layout_marginTop="224dp"
         android:layout_marginStart="21dp"
 
@@ -55,7 +55,7 @@
         android:textAllCaps="false"
         android:background="@drawable/rounded_button_background"
         android:backgroundTint="@color/greeen2"
-        android:textSize="23sp"
+        android:textSize="20sp"
         android:layout_marginTop="224dp"
         android:layout_marginEnd="21dp"
 
@@ -70,8 +70,8 @@
         android:textAllCaps="false"
         android:background="@drawable/rounded_button_background"
         android:backgroundTint="@color/greeen2"
-        android:textSize="23sp"
-        android:layout_marginTop="429dp"
+        android:textSize="20sp"
+        android:layout_marginTop="375dp"
         android:layout_marginStart="21dp"
 
         />
@@ -85,8 +85,8 @@
         android:textAllCaps="false"
         android:background="@drawable/rounded_button_background"
         android:backgroundTint="@color/greeen"
-        android:textSize="23sp"
-        android:layout_marginTop="429dp"
+        android:textSize="20sp"
+        android:layout_marginTop="375dp"
         android:layout_marginEnd="21dp"
         />
 </androidx.constraintlayout.widget.ConstraintLayout>

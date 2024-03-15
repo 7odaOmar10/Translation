@@ -17,8 +17,12 @@
     <string name="Verbs">Verben</string>
     <string name="Terms">Bedingungen</string>
     <string name="Other">Andere</string>
-
-
+    <string name="Next">Zurück</string>
+    <string name="Show_Result">Zeige Ergebnis</string>
+    <string name="Finish">Beenden</string>
+    <string name="Restart">Neu starten</string>
+    <string name="Submit">Einreichen</string>
+    <string name="Note">Hinweis: Wenn es mehr als eine Antwort gibt, trennen Sie diese durch ein „-“.</string>
 
 
 
